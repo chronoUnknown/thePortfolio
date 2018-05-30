@@ -4,7 +4,7 @@ Essentially, this will be my 'portfolio' of sorts. Really, more of a hiding plac
 
 ## Current Files:
 ### Pranks:
-#### [gFormBomb](../../tree/master/Pranks/gFormBomb.py)
+#### [gFormBomb](../../tree/master/pranks/gFormBomb.py)
   Floods a Google Form with fake responses. << Currently doesn't work, I'll get to that
 
 ### ML/DL Models:
